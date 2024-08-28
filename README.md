@@ -35,5 +35,5 @@ Build and run the TextEditor class.
 <br>
 Author:
 <br>
-Hilal Ahmad Khan
+Haroon Rasheed
 
